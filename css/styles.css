@@ -658,6 +658,7 @@ a {
   }
 
   .portfolio-overlay-text {
+    display: unset;
     position: absolute;
     background-color: #4d5ae5;
     padding: 40px 32px;
